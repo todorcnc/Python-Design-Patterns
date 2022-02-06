@@ -29,3 +29,9 @@ A partially or fully initialized object that copy (clone) and make use of.
 ```
 A component which is instantiated only once.
 ```
+
+- Adapter Pattern
+
+```
+A construct wich adapts existing interface X to conform to the required interface Y.
+```
