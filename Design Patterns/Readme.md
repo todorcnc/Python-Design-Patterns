@@ -12,8 +12,14 @@
 When piecewise object construction is complicated, provide an API for doing it succinctly.
 ```
 
-- Factories Pattern
+- Factoriy Pattern
 
 ```
 A component responsible solely for the wholesale (not piecewise) creation of objects.
+```
+
+- Prototype Pattern
+
+```
+A partially or fully initialized object that copy (clone) and make use of.
 ```
