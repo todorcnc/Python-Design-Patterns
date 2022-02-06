@@ -23,3 +23,9 @@ A component responsible solely for the wholesale (not piecewise) creation of obj
 ```
 A partially or fully initialized object that copy (clone) and make use of.
 ```
+
+- Singleton Pattern
+
+```
+A component which is instantiated only once.
+```
