@@ -35,3 +35,9 @@ A component which is instantiated only once.
 ```
 A construct wich adapts existing interface X to conform to the required interface Y.
 ```
+
+- Bridge Pattern
+
+```
+A mechnism that decouples and interface (hierarchy) from an implementation (hierarchy).
+```
