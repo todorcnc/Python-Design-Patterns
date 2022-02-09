@@ -41,3 +41,9 @@ A construct wich adapts existing interface X to conform to the required interfac
 ```
 A mechnism that decouples and interface (hierarchy) from an implementation (hierarchy).
 ```
+
+- Composite Pattern
+
+```
+A mechnism tfor treating individual (scalar) objects and compositions of objects in a uniform manner.
+```
